@@ -2,7 +2,7 @@ module github.com/taylormonacelli/realtalk
 
 go 1.23.0
 
-toolchain go1.26.0
+toolchain go1.26.1
 
 require github.com/spf13/viper v1.21.0
 
